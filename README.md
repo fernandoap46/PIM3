@@ -24,8 +24,6 @@ npm stall
 
 👤 **Fernando Agostinho Pereira**
 
-* Website: skip
-* Twitter: [@skip](https://twitter.com/skip)
 * Github: [@fernandoap46](https://github.com/fernandoap46)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/fernando-agostinho-pereira-b76399189](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/fernando-agostinho-pereira-b76399189)
 
