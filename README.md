@@ -14,11 +14,13 @@
 
 ### ✨ [Demo](https://fernandoap46.github.io/PIM3)
 
-## Install
+## Como utilizar o db.json
 
-```sh
-npm stall
-```
+<P>Para este projeto foi utilizado os postman para fazer os testes de CRUD.<P>
+<P>Get- puxar informações do db.json<P>
+<P>para fazer isso com a rota loja é necessário setar o método Git e informar o url: http://localhost:3000/loja<P>
+
+
 
 ## Author
 
