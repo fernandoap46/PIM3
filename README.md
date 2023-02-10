@@ -16,9 +16,9 @@
 
 ## Como utilizar o db.json
 
-<P>Para este projeto foi utilizado os postman para fazer os testes de CRUD.<P>
-<P>Get- puxar informações do db.json<P>
-<P>para fazer isso com a rota loja é necessário setar o método Git e informar o url: http://localhost:3000/loja<P>
+>Para este projeto foi utilizado os postman para fazer os testes de CRUD.
+>Get- puxar informações do db.json
+>para fazer isso com a rota loja é necessário setar o método Git e informar o url: http://localhost:3000/loja
 
 
 
