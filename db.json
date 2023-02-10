@@ -1,27 +1,39 @@
 {
-    "loja":[{
-        "filial": 355,
-        "clientID":1,
-        "id":1},
-        
-        {"filial": 356,
-        "clientID":2,
-        "id":2},
-        
-        {"filial": 357,
-        "clientID":3,
-        "id":3}],
-
-    "funcionarios":[{
-        "Nome": "renata",
-        "area":"gerente",
-        "id":1},
-
-        {"Nome": "fernando",
-        "area":"atendente",
-        "id":2},
-        
-        {"Nome": "laura",
-        "area":"balcao",
-        "id":3}]
+  "loja": [
+    {
+      "filial": 355,
+      "clientID": 1,
+      "id": 1
+    },
+    {
+      "filial": 356,
+      "clientID": 2,
+      "id": 2
+    },
+    {
+      "filial": 357,
+      "clientID": 3,
+      "id": 3
+    }
+  ],
+  "funcionarios": [
+    {
+      "Nome": "renata",
+      "area": "gerente",
+      "id": 1
+    },
+    {
+      "Nome": "fernando",
+      "area": "atendente",
+      "id": 2
+    },
+    {
+      "Nome": "laura",
+      "area": "balcao",
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ]
 }
