@@ -1,7 +1,7 @@
 <h1 align="center"> Bem-vindo ao projeto individual modulo3 👋 </h1>
 &nbsp;
-<p align="justify">Este projeto visa criar um Servidor json com duas rotas e 3 
-dados que o usuário poderá realizar os métodos GET, POST, PUT e DELETE(CRUD).</p>
+<h2 align="justify">Este projeto visa criar um Servidor json com duas rotas e 3 
+dados que o usuário poderá realizar os métodos GET, POST, PUT e DELETE(CRUD).</h2>
 &nbsp;
 
 ### 🏠 [Homepage](https://fernandoap46.github.io/PIM3)
@@ -17,11 +17,11 @@ a extensão ".json", para este projeto usaremos o arquivo db.json.</p>
 num array, com o nome da rota envolvido em colchetes como abaixo:</p>
 &nbsp;
 
-[image2](https://imgbox.com/X8LOWJVo)
+![image2](https://imgbox.com/X8LOWJVo)
 
 &nbsp;
 <p align="justify">-O segundo passo e abrir o terminal, e caso não esteja dentro da página
-do seu projeto é necessário navegar até ela e executar o comando abaixo" npx json-server --watch db.json"
+do seu projeto é necessário navegar até ela, e executar o comando " npx json-server --watch db.json"
 (db.json se refere ao nome do nosso servidor)</p>
 &nbsp; 
 <p align="justify">Se tudo estiver correto, o terminal informara o link do seu servidor, e das suas 
@@ -29,7 +29,7 @@ rotas criadas, caso tudo esteja certo aperte Crt+ o seletor esquerdo do mouse e 
 devera abrir desta forma em seu navegador:</p>
 &nbsp; 
 
-[image2](https://imgbox.com/dvTnP6O1)
+![image2](https://imgbox.com/dvTnP6O1)
 
 &nbsp;
 <p align="justify">Agora tudo está pronto, já podemos testar nossas requisições Post, Get, Put & Delete,
@@ -44,26 +44,26 @@ devera abrir desta forma em seu navegador:</p>
 <p align="justify">No Postman selecione GET e a rota desejada, no exemplo abaixo estamos acessando a rota loja, e ele deve retornar as informações do objeto loja dentro do nosso db.json.</p>
 &nbsp;
 
-[image2](https://imgbox.com/TtE5Nx96)
+![image2](https://imgbox.com/TtE5Nx96)
 &nbsp;
 <p align="justify">POST- Enviar uma nova informação para o db.json</p>
 <p align="justify">Selecione POST e a rota desejada, selecione em Body, modifique o tipo de arquivo para JSON, e informe as novas informações do usuário conforme configuração do seu projeto:</p>
 &nbsp;
 
-[image2](https://imgbox.com/Lh20mLoH)
+![image2](https://imgbox.com/Lh20mLoH)
 &nbsp;
 <p align="justify">PUT- Editar informações db.json</p>
 <p align="justify">Selecione PUT e a rota desejada, no final da rota adicione "/" e o número do id que deseja alterar, selecione Body, modifique o tipo de arquivo para JSON, e informe o que deseja ser alterado do id que selecionou:</p>
 &nbsp;
 
-[image2](https://imgbox.com/QuUXHvqt)
+![image2](https://imgbox.com/QuUXHvqt)
 &nbsp;
 <p align="justify">DELET- Deletar informações db.json</p>
 <p align="justify">Selecione DELET e a rota desejada, no final da rota adicione "/" e o número do id que deseja deletar, e após 
 confirmar a informação será deletada</p>
 &nbsp;
 
-[image2](https://imgbox.com/3EivqNjE)
+![image2](https://imgbox.com/3EivqNjE)
 
 
 
@@ -73,14 +73,3 @@ confirmar a informação será deletada</p>
 
 * Github: [@fernandoap46](https://github.com/fernandoap46)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/fernando-agostinho-pereira-b76399189](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/fernando-agostinho-pereira-b76399189)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-<a href="https://www.patreon.com/fernandoap46">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
