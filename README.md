@@ -10,14 +10,14 @@ dados que o usuário poderá realizar os métodos GET, POST, PUT e DELETE(CRUD).
 
 ## Como criar o servidor json
 &nbsp;
-<p align="justify">-O primeiro passo e criar dentro da pasta do se projeto o arquivo com 
-a extensão ".json", para este projeto usaremos o arquivo db.json.</p>
+<h3 align="justify">-O primeiro passo e criar dentro da pasta do se projeto o arquivo com 
+a extensão ".json", para este projeto usaremos o arquivo db.json.</h3>
 &nbsp;
-<p align="justify">Para criar cada rota é necessário que os três dados estejam
-num array, com o nome da rota envolvido em colchetes como abaixo:</p>
+<h3 align="justify">Para criar cada rota é necessário que os três dados estejam
+num array, com o nome da rota envolvido em colchetes como abaixo:</h3>
 &nbsp;
 
-![image2](https://imgbox.com/X8LOWJVo)
+![image1](https://github.com/fernandoap46/assets-img/blob/main/assets/img/1.JPG)
 
 &nbsp;
 <p align="justify">-O segundo passo e abrir o terminal, e caso não esteja dentro da página
@@ -29,7 +29,7 @@ rotas criadas, caso tudo esteja certo aperte Crt+ o seletor esquerdo do mouse e 
 devera abrir desta forma em seu navegador:</p>
 &nbsp;
 
-![image](https://imgbox.com/dvTnP6O1)<br>
+![image2](https://imgbox.com/dvTnP6O1)<br>
 <p align="justify">Agora tudo está pronto, já podemos testar nossas requisições Post, Get, Put & Delete,
 (CRUD) utilizando JSON Server.</p>
 &nbsp;
@@ -42,26 +42,26 @@ devera abrir desta forma em seu navegador:</p>
 <p align="justify">No Postman selecione GET e a rota desejada, no exemplo abaixo estamos acessando a rota loja, e ele deve retornar as informações do objeto loja dentro do nosso db.json.</p>
 &nbsp;
 
-![image2](https://imgbox.com/TtE5Nx96)
+![image3](https://imgbox.com/TtE5Nx96)
 &nbsp;
 <p align="justify">POST- Enviar uma nova informação para o db.json</p>
 <p align="justify">Selecione POST e a rota desejada, selecione em Body, modifique o tipo de arquivo para JSON, e informe as novas informações do usuário conforme configuração do seu projeto:</p>
 &nbsp;
 
-![image2](https://imgbox.com/Lh20mLoH)
+![image4](https://imgbox.com/Lh20mLoH)
 &nbsp;
 <p align="justify">PUT- Editar informações db.json</p>
 <p align="justify">Selecione PUT e a rota desejada, no final da rota adicione "/" e o número do id que deseja alterar, selecione Body, modifique o tipo de arquivo para JSON, e informe o que deseja ser alterado do id que selecionou:</p>
 &nbsp;
 
-![image2](https://imgbox.com/QuUXHvqt)
+![image5](https://imgbox.com/QuUXHvqt)
 &nbsp;
 <p align="justify">DELET- Deletar informações db.json</p>
 <p align="justify">Selecione DELET e a rota desejada, no final da rota adicione "/" e o número do id que deseja deletar, e após 
 confirmar a informação será deletada</p>
 &nbsp;
 
-![image2](https://imgbox.com/3EivqNjE)
+![image6](https://imgbox.com/3EivqNjE)
 
 
 
