@@ -8,6 +8,10 @@ dados que o usuário poderá realizar os métodos GET, POST, PUT e DELETE(CRUD).
 
 ### ✨ [Demo](https://fernandoap46.github.io/PIM3)
 
+## Tecnologias utilizadas
+&nbsp;
+![image1](https://github.com/fernandoap46/assets-img/blob/main/assets/img/json.JPG)
+&nbsp;
 ## Como criar o servidor json
 &nbsp;
 <h3 align="justify">-O primeiro passo e criar dentro da pasta do se projeto o arquivo com 
@@ -29,39 +33,39 @@ rotas criadas, caso tudo esteja certo aperte Crt+ o seletor esquerdo do mouse e 
 devera abrir desta forma em seu navegador:</p>
 &nbsp;
 
-![image2](https://imgbox.com/dvTnP6O1)<br>
-<p align="justify">Agora tudo está pronto, já podemos testar nossas requisições Post, Get, Put & Delete,
-(CRUD) utilizando JSON Server.</p>
+![image2](https://github.com/fernandoap46/assets-img/blob/main/assets/img/2.JPG)<br>
+<h3 align="justify">Agora tudo está pronto, já podemos testar nossas requisições Post, Get, Put & Delete,
+(CRUD) utilizando JSON Server.</h3>
 &nbsp;
 
 ## Como utilizar o CRUD NO db.json
 
-<p align="justify">Para este projeto foi utilizado os postman para fazer os testes de CRUD.</p>
+<h3 align="justify">Para este projeto foi utilizado os postman para fazer os testes de CRUD.</h3>
 &nbsp;
-<p align="justify">GET- puxar informações do db.json</p>
-<p align="justify">No Postman selecione GET e a rota desejada, no exemplo abaixo estamos acessando a rota loja, e ele deve retornar as informações do objeto loja dentro do nosso db.json.</p>
-&nbsp;
-
-![image3](https://imgbox.com/TtE5Nx96)
-&nbsp;
-<p align="justify">POST- Enviar uma nova informação para o db.json</p>
-<p align="justify">Selecione POST e a rota desejada, selecione em Body, modifique o tipo de arquivo para JSON, e informe as novas informações do usuário conforme configuração do seu projeto:</p>
+<h3 align="justify">GET- puxar informações do db.json</h3>
+<h3 align="justify">No Postman selecione GET e a rota desejada, no exemplo abaixo estamos acessando a rota loja, e ele deve retornar as informações do objeto loja dentro do nosso db.json.</h3>
 &nbsp;
 
-![image4](https://imgbox.com/Lh20mLoH)
+![image3](https://github.com/fernandoap46/assets-img/blob/main/assets/img/3.JPG)
+&nbsp;
+<h3 align="justify">POST- Enviar uma nova informação para o db.json</h3>
+<h3 align="justify">Selecione POST e a rota desejada, selecione em Body, modifique o tipo de arquivo para JSON, e informe as novas informações do usuário conforme configuração do seu projeto:</h3>
+&nbsp;
+
+![image4](https://github.com/fernandoap46/assets-img/blob/main/assets/img/5.JPG)
 &nbsp;
 <p align="justify">PUT- Editar informações db.json</p>
 <p align="justify">Selecione PUT e a rota desejada, no final da rota adicione "/" e o número do id que deseja alterar, selecione Body, modifique o tipo de arquivo para JSON, e informe o que deseja ser alterado do id que selecionou:</p>
 &nbsp;
 
-![image5](https://imgbox.com/QuUXHvqt)
+![image5](https://github.com/fernandoap46/assets-img/blob/main/assets/img/6.JPG)
 &nbsp;
 <p align="justify">DELET- Deletar informações db.json</p>
 <p align="justify">Selecione DELET e a rota desejada, no final da rota adicione "/" e o número do id que deseja deletar, e após 
 confirmar a informação será deletada</p>
 &nbsp;
 
-![image6](https://imgbox.com/3EivqNjE)
+![image6](https://github.com/fernandoap46/assets-img/blob/main/assets/img/8.JPG)
 
 
 
