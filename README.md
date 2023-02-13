@@ -14,7 +14,7 @@ dados que o usuário poderá realizar os métodos GET, POST, PUT e DELETE(CRUD).
 &nbsp;
 ## Como criar o servidor json
 &nbsp;
-<h3 align="justify">-O primeiro passo e criar dentro da pasta do se projeto o arquivo com 
+<h3 align="justify">-O primeiro passo e criar dentro da pasta do seu projeto o arquivo com 
 a extensão ".json", para este projeto usaremos o arquivo db.json.</h3>
 &nbsp;
 <h3 align="justify">Para criar cada rota é necessário que os três dados estejam
