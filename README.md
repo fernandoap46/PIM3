@@ -24,13 +24,13 @@ num array, com o nome da rota envolvido em colchetes como abaixo:</h3>
 ![image1](https://github.com/fernandoap46/assets-img/blob/main/assets/img/1.JPG)
 
 &nbsp;
-<p align="justify">-O segundo passo e abrir o terminal, e caso não esteja dentro da página
+<h3 align="justify">-O segundo passo e abrir o terminal, e caso não esteja dentro da página
 do seu projeto é necessário navegar até ela, e executar o comando " npx json-server --watch db.json"
-(db.json se refere ao nome do nosso servidor)</p>
+(db.json se refere ao nome do nosso servidor)</h3>
 &nbsp; 
-<p align="justify">Se tudo estiver correto, o terminal informara o link do seu servidor, e das suas 
+<h3 align="justify">Se tudo estiver correto, o terminal informara o link do seu servidor, e das suas 
 rotas criadas, caso tudo esteja certo aperte Crt+ o seletor esquerdo do mouse e a pagina de confirmação
-devera abrir desta forma em seu navegador:</p>
+devera abrir desta forma em seu navegador:</h3>
 &nbsp;
 
 ![image2](https://github.com/fernandoap46/assets-img/blob/main/assets/img/2.JPG)<br>
@@ -54,15 +54,15 @@ devera abrir desta forma em seu navegador:</p>
 
 ![image4](https://github.com/fernandoap46/assets-img/blob/main/assets/img/5.JPG)
 &nbsp;
-<p align="justify">PUT- Editar informações db.json</p>
-<p align="justify">Selecione PUT e a rota desejada, no final da rota adicione "/" e o número do id que deseja alterar, selecione Body, modifique o tipo de arquivo para JSON, e informe o que deseja ser alterado do id que selecionou:</p>
+<h3 align="justify">PUT- Editar informações db.json</h3>
+<h3 align="justify">Selecione PUT e a rota desejada, no final da rota adicione "/" e o número do id que deseja alterar, selecione Body, modifique o tipo de arquivo para JSON, e informe o que deseja ser alterado do id que selecionou:</h3>
 &nbsp;
 
 ![image5](https://github.com/fernandoap46/assets-img/blob/main/assets/img/6.JPG)
 &nbsp;
-<p align="justify">DELET- Deletar informações db.json</p>
-<p align="justify">Selecione DELET e a rota desejada, no final da rota adicione "/" e o número do id que deseja deletar, e após 
-confirmar a informação será deletada</p>
+<h3 align="justify">DELET- Deletar informações db.json</h3>
+<h3 align="justify">Selecione DELET e a rota desejada, no final da rota adicione "/" e o número do id que deseja deletar, e após 
+confirmar a informação será deletada</h3>
 &nbsp;
 
 ![image6](https://github.com/fernandoap46/assets-img/blob/main/assets/img/8.JPG)
