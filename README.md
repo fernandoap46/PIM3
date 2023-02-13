@@ -27,11 +27,9 @@ do seu projeto é necessário navegar até ela, e executar o comando " npx json-
 <p align="justify">Se tudo estiver correto, o terminal informara o link do seu servidor, e das suas 
 rotas criadas, caso tudo esteja certo aperte Crt+ o seletor esquerdo do mouse e a pagina de confirmação
 devera abrir desta forma em seu navegador:</p>
-&nbsp; 
-
-![image2](https://imgbox.com/dvTnP6O1)
-
 &nbsp;
+
+![image](https://imgbox.com/dvTnP6O1)<br>
 <p align="justify">Agora tudo está pronto, já podemos testar nossas requisições Post, Get, Put & Delete,
 (CRUD) utilizando JSON Server.</p>
 &nbsp;
